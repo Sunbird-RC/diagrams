@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Prasanna S R <prasanna@beehyv.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mermaid": "^10.8.0"
+  }
 }

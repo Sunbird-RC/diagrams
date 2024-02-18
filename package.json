@@ -9,6 +9,7 @@
   "author": "Prasanna S R <prasanna@beehyv.com>",
   "license": "MIT",
   "dependencies": {
+    "@mermaid-js/mermaid-cli": "^10.8.0",
     "mermaid": "^10.8.0"
   }
 }
